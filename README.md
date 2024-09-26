@@ -46,7 +46,7 @@ Here are some ideas to get you started:
  <!-- Abaixo, duas imagens com informações do repositório A+ e etc. -->
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fabricioddsv&show_icons=true&count_private=true&hide_border=true&title_color=800000&icon_color=800000&text_color=c9d1d9&bg_color=0d1117" alt="Fabrício Domingos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricioddsv&layout=compact&hide_border=true&title_color=800000&text_color=800000&bg_color=0d1117" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricioddsv&layout=compact&hide_border=true&title_color=800000&text_color=800000&bg_color=0d1117" /> 
 </div> 
  
 <!-- badges, com trofeu --> 
@@ -65,19 +65,19 @@ Here are some ideas to get you started:
  
  <!-- minhas habilidades -->
  <h3><code>Main skills:</code><h3>
- <div><code>
-   Desenvolvimento de software e hardware, softskills.
- </code></div>
+ <div>
+   <code>Desenvolvimento de software e hardware, softskills.</code>
+ </div>
 
 <!-- estudando no momento -->
 <h3><code>Studying in this moment:</code></h3>
-<div><code>
-  SystemVerilog, Shell script, Arquitetura de computadores e Microeletrônica.
-</code></div>
+<div>
+  <code>SystemVerilog, Shell script, Arquitetura de computadores e Microeletrônica.</code>
+</div>
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{fabricioddsv}/count.svg" /></p> 
 <br>
 </div> 
