@@ -65,10 +65,15 @@ Here are some ideas to get you started:
  
  <!-- minhas habilidades -->
  ### Main skills:
+ <div>
+   Desenvolvimento de software e hardware, softskills.
+ </div>
 
 <!-- estudando no momento -->
 ### Studying in this moment:
-
+<div>
+  SystemVerilog, Shell script, Arquitetura de computadores e Microeletrônica.
+</div>
 
 
 <div align="center">
