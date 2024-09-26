@@ -66,7 +66,7 @@ Here are some ideas to get you started:
  <!-- minhas habilidades -->
  <h3><code>Main skills:</code></h3>
  <div>
-   <code>Desenvolvimento de software e hardware, softskills.</code>
+   <code>Desenvolvimento de software e hardware, softskills, manutenção de computadores.</code>
  </div>
 
 <!-- estudando no momento -->
