@@ -64,16 +64,16 @@ Here are some ideas to get you started:
 </div> 
  
  <!-- minhas habilidades -->
- ### Main skills:
- <div>
+ <h3><code>Main skills:</code><h3>
+ <div><code>
    Desenvolvimento de software e hardware, softskills.
- </div>
+ </code></div>
 
 <!-- estudando no momento -->
-### Studying in this moment:
-<div>
+<h3><code>Studying in this moment:</code></h3>
+<div><code>
   SystemVerilog, Shell script, Arquitetura de computadores e Microeletrônica.
-</div>
+</code></div>
 
 
 <div align="center">
