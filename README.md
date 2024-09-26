@@ -18,7 +18,7 @@
  
  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
  
- <-- ![Snake animation](https://github.com/fabriciodds/fabriciodds/blob/output/github-contribution-grid-snake.svg) -->
+ <-- ![Snake animation](https://github.com/fabricioddsv/fabricioddsv/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
 
