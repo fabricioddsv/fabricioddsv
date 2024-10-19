@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
  <!-- redes sociais e profissional -->
 <div align="center"> 
-  <a href="https://instagram.com/frabriciu.u" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://instagram.com/dfabricio.silva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
   <a href = "mailto:fabriciodomingos01@gmail.com"> 
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabricio-domingos-825801234/" target="_blank">
