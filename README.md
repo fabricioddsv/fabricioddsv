@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <h3><code>Studying in this moment:</code></h3>
 
 <div>
-  <code>SystemVerilog, Shell script, Arquitetura de computadores e Microeletrônica.</code>
+  <code>Software e Sistemas Embarcados.</code>
 </div>
 
 
